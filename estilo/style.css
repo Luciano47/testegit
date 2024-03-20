@@ -1,0 +1,15 @@
+* {
+   fonte-femily: AriaL, HeLvetica, sans-serif;
+   font-size: 16px;
+
+}
+body{
+    background-color: rgb(78, 52, 103);
+}
+main{
+    background-color: aliceblue;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(128, 70, 70, 0.597);
+}
